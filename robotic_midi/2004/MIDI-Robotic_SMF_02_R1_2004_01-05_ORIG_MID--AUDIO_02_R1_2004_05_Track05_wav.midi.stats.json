@@ -1,0 +1,17 @@
+{
+  "input_file": "D:\\Midilicious\\maestro-v3.0.0\\2004\\MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_05_Track05_wav.midi",
+  "output_file": "D:\\Midilicious\\robotic_midi\\2004\\MIDI-Robotic_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_05_Track05_wav.midi",
+  "ticks_per_beat": 480,
+  "original_note_count": 7894,
+  "output_note_count": 7894,
+  "grid_division": 0,
+  "grid_ticks": 0,
+  "fixed_velocity": 80,
+  "bpm": 120,
+  "force_4_4": true,
+  "same_pitch_overlap_repairs": 0,
+  "onset_order_repairs": 0,
+  "zero_length_repairs": 0,
+  "note_range_min": 38,
+  "note_range_max": 84
+}
